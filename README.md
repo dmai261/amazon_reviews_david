@@ -18,6 +18,10 @@
 ## Usage
 
 > Some usage instructions
+GET API: '/reviews/*',
+POST API: '/reviews/*/helpful',
+UPDATE API: '/reviews/update/:reviewID/:productId',
+DELETE API: '/reviews/delete/:reviewID/:productId'
 
 ## Requirements
 
